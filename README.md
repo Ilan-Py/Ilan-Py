@@ -1,3 +1,5 @@
+<!-- ¿Por que estan mirando el codigo loco?
+
 <!-- Animated Header -->
 <div align="center">
 
@@ -101,9 +103,11 @@ I enjoy combining **technology, data and business thinking** to build practical 
 Instituto de Estudios Superiores — IES Santa Fe  
 `2024 → Present`
 
+<!--
 **Information Systems Engineering**  
 Universidad Tecnológica Nacional — UTN FRSF  
-`2018 → 2023`
+`2018 → 2023` 
+-->
 
 **Cambridge English C1**  
 Cambridge English  
