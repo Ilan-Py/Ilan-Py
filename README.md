@@ -115,6 +115,15 @@ Cambridge English
 
 ---
 
+## 📈 Currently
+
+- 🔨 Building full-stack academic projects
+- ☕ Improving my Java & Spring Boot skills
+- 🗄️ Working with relational databases and SQL
+- ⚛️ Learning and developing with React
+- 🚀 Always looking for new projects to turn ideas into software
+
+<!--
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -124,7 +133,7 @@ Cambridge English
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ilan-Py&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
-
+-->
 ---
 
 ## 🤝 Connect With Me
