@@ -9,7 +9,7 @@
 
 ---
 
-<img src="https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif" width="280" align="right"/>
+
 
 ## 👨‍💻 About Me
 
