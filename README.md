@@ -54,6 +54,20 @@
 
 ## 🚀 Featured Projects
 
+### 💸 Entre Amigos
+
+[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github)](https://github.com/Ilan-Py/REEMPLAZAR-POR-NOMBRE-DEL-REPO)
+![Status](https://img.shields.io/badge/status-completed-brightgreen)
+![PWA](https://img.shields.io/badge/PWA-installable-5A0FC8)
+
+> Web application designed to simplify shared expenses between friends, groups and events.
+
+> Track expenses, split payments, calculate balances, settle debts and generate clear reports of who owes whom.
+
+> **Features:** Multiple groups · Shared expenses · Multiple payers · Debt simplification · Payment tracking · Monthly reports · PWA support
+
+> **Stack:** HTML · CSS · JavaScript · Node.js · PostgreSQL · Neon · Vercel
+
 ### 🩺 DOMUS+
 
 ![Status](https://img.shields.io/badge/status-in%20development-yellow)
