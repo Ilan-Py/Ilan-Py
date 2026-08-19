@@ -56,7 +56,8 @@
 
 ### 💸 Entre Amigos
 
-[![Repo](https://img.shields.io/badge/Repository-181717?style=flat&logo=github)](https://github.com/Ilan-Py/REEMPLAZAR-POR-NOMBRE-DEL-REPO)
+[![Repository](https://img.shields.io/badge/Repository-181717?style=flat&logo=github)](LINK_DEL_REPO)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat&logo=vercel)](LINK_DE_LA_DEMO)
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
 ![PWA](https://img.shields.io/badge/PWA-installable-5A0FC8)
 
